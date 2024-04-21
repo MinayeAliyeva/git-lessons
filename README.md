@@ -18,4 +18,5 @@ ls -a - bulundugun klasorde butun dosyalari gizli olan ya olmayan hepsini gosder
 
 git status-staging areaya gondermediyiniz deyisiklikleri gosderir. (git add etmezden evvelki degisiklikler)
 ...
-git commit-ab
+ssh-private key,public key 
+cat-acmaqcun
