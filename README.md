@@ -1,5 +1,8 @@
 GIT /GITHUB /GITLUCK
 Git- vcs (version control system) , yani bizim calisma alanimizda(working directory) etdiyimiz deyisiklikleri ekleme (git add) , ardindan git commit ile (staging area) gonderirik.
+3 areas var => 1 Working directory(iş direktoriyasi) ".git uzantisi olan folderdi"- Biz gore Bilirik bu areani , 2 Staging Area .git folderinin daxilinde olur, 3 Repository .git Folderinde olur bu bizim local repositoridi
+
+git init etdikde her fayil elave olunur Working directory-e , git add etdikde Staging Area , git commit etdikde Local Repository e
 Bunlarin hamisini bize git saglayir (versiyalar arasi kecidi) etdiyimiz deyisiklikleri akdarmamiza yardimci olan bir aracdir.
 Github,Gitluck,Gitlub- Tamamen depo kimi baxa bilerik.Bunlar uzaqdaki serverimiz online olarak calisir. ancaq kendi calisma alanimiz offline.
 Comutlar
