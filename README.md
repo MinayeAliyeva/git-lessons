@@ -16,3 +16,6 @@ ls-oldugumuz yerdeki dosyalari (folderleri) gosterir.
 git init-bizim icinde bulundugumuz klasorde .git isimli gizli klasor olusturur bu klasor yardimiyla biz orda comitler yapa biliyoruz pullar,pushlar farkliliklari gore biliyoruz . Projenin baslangicinde basta 1 defa git initi yazmis oluyoruz ve gitle ilgili butun ozellikleri kullana biliyoruz.
 ls -a - bulundugun klasorde butun dosyalari gizli olan ya olmayan hepsini gosderir.
 
+git status-staging areaya gondermediyiniz deyisiklikleri gosderir. (git add etmezden evvelki degisiklikler)
+...
+git commit-gg
